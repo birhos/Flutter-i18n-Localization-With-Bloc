@@ -1,0 +1,7 @@
+{
+    "locale": "tr",
+    "helloWorld": "Merhaba Dünya",
+    "greeting": "{hello} {world}",
+    "numberOfDataPoints": "Veri noktalarının sayısı: {value}",
+    "helloWorldOn": "{date} tarihinde Merhaba Dünya"
+}

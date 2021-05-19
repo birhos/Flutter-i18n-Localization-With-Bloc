@@ -1,0 +1,7 @@
+{
+    "locale": "en",
+    "helloWorld": "Hello World",
+    "greeting": "{hello} {world}",
+    "numberOfDataPoints": "Number of data points: {value}",
+    "helloWorldOn": "Hello World on {date}"
+}
